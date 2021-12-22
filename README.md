@@ -22,6 +22,7 @@ Check out the demo: (still run locally, later to be run in docker)
 ## Installation
 * Clone this repo: [Github repo to clone](https://github.com/karolina-sowinska/free-data-engineering-course-for-beginners)
 * Install & Setup Airflow: [Airflow Quickstart](https://airflow.apache.org/docs/apache-airflow/stable/start/local.html)
+  - change the content of ```airflow.cfg``` in ```~/airflow```, e.g., from ```dags_folder = /home/<USER>/airflow/dags``` to ```dags_folder = /home/<USER>/spotify-ETL-job/dags``` 
 * Add your Spotify Username: 
   - Open your spotify app, click your profile or username, then account. From there copy the 10-digit username, and
   - Paste it in [spotify_etl.py](https://github.com/nekoemperor/spotify-ETL-job/blob/master/dags/spotify_etl.py) line 44:
