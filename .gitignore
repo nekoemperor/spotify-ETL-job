@@ -1,4 +1,4 @@
 .python-version
 .vscode
 **/__pycache__/
-spotify_etl.py
+spotify_etl copy.py
