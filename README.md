@@ -17,7 +17,7 @@ We will schedule this pipeline to run daily. After a few months we will end up w
 
 ## The Demo 
 Check out the demo: (still run locally, later to be run in docker)
-<p align="center"><img src="https://github.com/nekoemperor/salaryprediction-ml-app/blob/master/salaryprediction/images/salaryprediction.gifsadasd" width="768"  />
+<p align="center"><img src="https://github.com/nekoemperor/spotify-ETL-job/blob/master/images/airflow-dbeaver.gif" width="768"  />
 
 ## Installation
 * Clone this repo: [Github repo to clone](https://github.com/karolina-sowinska/free-data-engineering-course-for-beginners)
