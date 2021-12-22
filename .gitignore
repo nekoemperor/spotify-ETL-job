@@ -2,3 +2,4 @@
 .vscode
 **/__pycache__/
 spotify_etl_backup.py
+my_played_tracks.sqlite
